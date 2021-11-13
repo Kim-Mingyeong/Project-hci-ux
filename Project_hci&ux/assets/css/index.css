@@ -22,6 +22,7 @@
     width: 100%;
     height: 100vh;
     font-family: NanumBarunGothic;
+    overflow: hidden;
   }
   .container{
     height: 100vh;
